@@ -1,0 +1,36 @@
+body {
+	background-color: #a9db9b;
+	color: #4b8f5d;
+}
+
+h1 {
+	text-align: center;
+	outline-style: double;
+	border: 1px;
+	outline-color: #427d50;
+	outline-width: 5px;
+	font-family: impact, "fantasy" ;
+	font-size: 25px
+}
+h2 {
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+p {
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+}
+a {
+	outline-style: solid;
+	outline color: #6e997d;
+	outline-width: 3px;
+}
+
+a:hover {
+	outline-style: solid;
+	outline color: #6e997d;
+	outline-width: 3px;
+}
